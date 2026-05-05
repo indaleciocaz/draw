@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Direccionamiento redes" id="1LDjILNpqyjcDsRf2Xfg">
-    <mxGraphModel dx="897" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3Z9aqQ-wGDNE9dk7RtMr-0" />
         <mxCell id="3Z9aqQ-wGDNE9dk7RtMr-1" parent="3Z9aqQ-wGDNE9dk7RtMr-0" />
@@ -788,6 +788,32 @@
         <mxCell id="5Ajv-bOBh0snvKyshVHo-14" connectable="0" parent="5Ajv-bOBh0snvKyshVHo-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="TUNNEL 3 UBIQUITI" vertex="1">
           <mxGeometry relative="1" x="0.1006" y="1" as="geometry">
             <mxPoint x="46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ajv-bOBh0snvKyshVHo-15" edge="1" parent="3Z9aqQ-wGDNE9dk7RtMr-1" source="3Z9aqQ-wGDNE9dk7RtMr-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FFB366,#FFFFFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="3Z9aqQ-wGDNE9dk7RtMr-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="368" />
+              <mxPoint x="300" y="623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ajv-bOBh0snvKyshVHo-16" connectable="0" parent="5Ajv-bOBh0snvKyshVHo-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="TUNNEL GT PCAR" vertex="1">
+          <mxGeometry relative="1" x="0.4468" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ajv-bOBh0snvKyshVHo-17" edge="1" parent="3Z9aqQ-wGDNE9dk7RtMr-1" source="3Z9aqQ-wGDNE9dk7RtMr-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8555;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FF66FF,#FFFFFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="3Z9aqQ-wGDNE9dk7RtMr-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="368" />
+              <mxPoint x="940" y="623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ajv-bOBh0snvKyshVHo-18" connectable="0" parent="5Ajv-bOBh0snvKyshVHo-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="TUNNEL GT PCTAC" vertex="1">
+          <mxGeometry relative="1" x="0.4859" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
