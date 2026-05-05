@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Red de datos" id="V95QHnXZH5HsavvFeEZr">
-    <mxGraphModel dx="673" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,6 +451,21 @@
         </mxCell>
         <mxCell id="Hvfw304_hw6dQ8rfs4Mb-147" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="30" width="20" x="1040" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvfw304_hw6dQ8rfs4Mb-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Omni" vertex="1">
+          <mxGeometry height="10" width="40" x="606" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvfw304_hw6dQ8rfs4Mb-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Omni" vertex="1">
+          <mxGeometry height="10" width="40" x="1060" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvfw304_hw6dQ8rfs4Mb-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1" vertex="1">
+          <mxGeometry height="30" width="29" x="1073" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvfw304_hw6dQ8rfs4Mb-151" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="20" x="1040" y="771" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvfw304_hw6dQ8rfs4Mb-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3" vertex="1">
+          <mxGeometry height="30" width="29" x="1073" y="771" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
